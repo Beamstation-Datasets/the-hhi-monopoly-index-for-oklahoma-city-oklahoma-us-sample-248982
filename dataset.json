@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Oklahoma City, Oklahoma, US",
+  "export_job_id": "d8b76906-d9ad-458d-ba1a-5273226bd6f2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 248982,
+  "location_name": "Oklahoma City",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-oklahoma-city-oklahoma-us-sample-248982",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/248982/beamstation_248982_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_pct": 9.52,
+  "sample_records": 8,
+  "sample_sha256": "c1f3a5d02775344c94f9aac95feb9770f43f63130ba56529185af145dc2e184d",
+  "sample_size_bytes": 50137,
+  "total_records": 84,
+  "updated_at": "2026-04-08T00:18:14.100125+00:00"
+}
