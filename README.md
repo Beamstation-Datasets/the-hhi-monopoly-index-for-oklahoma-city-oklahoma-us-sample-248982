@@ -9,9 +9,9 @@
 | Dataset ID | `248982` |
 | Location | Oklahoma City |
 | Category | Restaurants |
-| Full dataset size | 84 records |
-| Free sample size | 8 records (9.52%) |
-| Last export | 2026-04-08T00:18:14.100125+00:00 |
+| Full dataset size | 80 records |
+| Free sample size | 8 records (10.0%) |
+| Last export | 2026-04-15T06:00:13.905511+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-oklahoma-city-oklahoma-us-sample-248982/releases/download/sample-latest/beamstation_248982_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
