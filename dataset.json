@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Oklahoma City, Oklahoma, US",
-  "export_job_id": "208cbdf7-cdd0-4fb3-8d5e-5f024639b426",
+  "export_job_id": "c2d83ce4-b7b6-4796-a6cf-718d3db86ef0",
   "github_org": "Beamstation-Datasets",
   "id_short": 248982,
   "location_name": "Oklahoma City",
@@ -14,9 +14,9 @@
   "repo_name": "the-hhi-monopoly-index-for-oklahoma-city-oklahoma-us-sample-248982",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/248982/beamstation_248982_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 8,
-  "sample_sha256": "e3be54f229c1251776bb81dc97f1cd1e9bca49d8a09441dabdd7ffc43949cbc2",
-  "sample_size_bytes": 47362,
-  "total_records": 80,
-  "updated_at": "2026-04-15T06:00:13.905511+00:00"
+  "sample_records": 5,
+  "sample_sha256": "d9ac61915ce773a3838f3d9dba4f1a8268b9cee0031b4124b31844aa6e346d87",
+  "sample_size_bytes": 35773,
+  "total_records": 50,
+  "updated_at": "2026-04-22T11:51:41.200633+00:00"
 }
