@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c2d83ce4-b7b6-4796-a6cf-718d3db86ef0",
+  "export_job_id": "b054fb1a-1023-48f1-8172-1c48732f09d4",
   "id_short": 248982,
-  "published_at": "2026-04-22T19:26:37Z",
+  "published_at": "2026-04-30T07:10:42Z",
   "repo_name": "the-hhi-monopoly-index-for-oklahoma-city-oklahoma-us-sample-248982",
   "sample_asset_name": "beamstation_248982_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/248982/beamstation_248982_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "d9ac61915ce773a3838f3d9dba4f1a8268b9cee0031b4124b31844aa6e346d87",
-  "sample_size_bytes": 35773,
-  "total_records": 50
+  "sample_records": 8,
+  "sample_sha256": "3d311042fd6ffec15aa358e406b42fb88ec214acea2e771081e529c14fb4f3b1",
+  "sample_size_bytes": 44816,
+  "total_records": 80
 }
